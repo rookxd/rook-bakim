@@ -9,4 +9,4 @@ shared_scripts{
 }
 
 
-lua54 'yes' -- needed for reaper
+lua54 'yes'
